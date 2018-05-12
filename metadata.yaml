@@ -1,0 +1,30 @@
+_repo: A-Woman-s-Love_40180
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Opie, Amelia
+    aliases:
+    - Opie, Amelia Alderson
+    - Alderson, Amelia
+    birthdate: 1769
+    deathdate: 1853
+    gutenberg_agent_id: '37581'
+    url: http://www.gutenberg.org/2009/agents/37581
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Opie
+description: ''
+gutenberg_issued: '2012-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: A Woman's Love
+url: http://www.gutenberg.org/ebooks/40180
